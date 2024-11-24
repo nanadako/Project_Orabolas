@@ -2,4 +2,5 @@
  ₊˚‧︵‿꒰୨ Projeto elaborado para projeto de faculdade na matéria de física. Ele consiste em fazer um calculo de X e Y na posição da bola, para um robô humanoide percorrer a trajetória e o ponto de intercepção. <br>
  🩹🍙☆  𝅄 ⠀ׂ  Em colaboração com: Nathan
 <img align = "right" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" width="400" height = "200" alt="study">
+<img align = "left" src="https://i.pinimg.com/originals/7b/52/2f/7b522f38a050baa36b37bdb227b5b3cd.gif" width="400" height = "200" alt="study">
 
