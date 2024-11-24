@@ -65,7 +65,7 @@ tempo;x;y
 
 ## 👥 Parceria
 
-Código feito em parceria com o Nathan ⮧
+Código feito em parceria com o Nathan ⮧ <br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Neromakii
 ) 
 
